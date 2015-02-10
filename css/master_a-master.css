@@ -1,0 +1,42 @@
+#u80
+{
+	-pie-box-shadow: 0px 2px 8px #7F7F7F;
+	-moz-box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 2px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
+	border-color: #000000;
+	background-color: #8D1E31;
+}
+
+#u80_align_to_page
+{
+	position: relative;
+}
+
+#u1144-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2622
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2620,#u2621
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1555
+{
+	border-color: #000000;
+	background-color: #480D17;
+}
+
